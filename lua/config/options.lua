@@ -7,3 +7,4 @@ vim.opt.clipboard = "unnamedplus"
 if vim.g.neovide then
   vim.g.neovide_opacity = 0.80 -- Lower = more clear blur, Higher = more solid dark blue
 end
+vim.g.neovide_opacity = 1.0
